@@ -1,3 +1,3 @@
 fn main() {
-    println!("toki!");
+    println!("toki a!");
 }
